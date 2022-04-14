@@ -1,5 +1,10 @@
 this files contains actual logic
+
 this files contains actual logic2
 this files contains actual logic3
+
+Adding this line from local git1.
+Adding this line from local git2.
+
 Adding this line from local git.
 this files contains actual logic4
