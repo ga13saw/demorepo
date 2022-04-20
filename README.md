@@ -1,7 +1,7 @@
-#Start demo project of GIT
+# Start demo project of GIT
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
 
-##How to configure
+## How to configure
