@@ -11,3 +11,6 @@
 
 ##syntax
 	it starts with git.
+	
+###copy rigts
+	@code4you 2022
