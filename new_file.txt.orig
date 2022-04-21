@@ -1,0 +1,15 @@
+hello! how are you
+<<<<<<< HEAD
+I'm going to successfull, thanks.
+=======
+I'm fine again, thanks to the medicine.
+>>>>>>> 26b8865 (advice)
+
+What about you?
+I'm so sorry to hear that.
+
+<<<<<<< HEAD
+You should do daily exercise.
+=======
+Now, I'll start runnig from tomorrow.
+>>>>>>> 26b8865 (advice)
