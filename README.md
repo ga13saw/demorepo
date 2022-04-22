@@ -9,8 +9,8 @@
 ## How to configure
 	download and run the app. it's simple to install and the setup encironment variable
 
-##syntax
+## syntax
 	it starts with git keyword. followed by operation keywords.
 	
-###copy rigts
-	@code4you 2022
+### copy rigts
+	@code4you 2022. All rights preserve.
